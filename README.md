@@ -1,4 +1,4 @@
-# 🏨 AltiQ Hospitality Analysis
+#                                                                 🏨 AltiQ Hospitality Analysis
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Introduction
 Welcome to the Hospitality Power BI Dashboard repository! This project aims to provide a comprehensive and insightful visualization solution tailored for the hospitality industry. Whether you are a hotel manager, event planner, or hospitality data enthusiast, this Power BI dashboard offers key metrics and analytics to empower better decision-making and enhance operational efficiency.
@@ -51,7 +51,7 @@ Dashboard is created after creating the DAX measures. For creating this Dashboar
 
 !## 📊 Dashboard Preview
 
-![Screenshot 2026-02-01 123309](https://github.com/VedhaR30/Hospitality_Domain_Analysis/assets/110449627/Screenshot%202026-02-01%20123309)
+![AltiQ_Hospitality_Dashboard](https://github.com/VedhaR30/Hospitality_Domain_Analysis/blob/e9bd14c36d63980c85f123e39d23576be0af97ae/AltiQ_Hospitality_Dashboard.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
